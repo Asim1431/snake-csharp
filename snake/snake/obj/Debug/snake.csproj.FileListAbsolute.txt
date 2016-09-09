@@ -1,0 +1,5 @@
+C:\Users\Maksutik\gitProjects\snake-csharp\snake\snake\bin\Debug\snake.exe.config
+C:\Users\Maksutik\gitProjects\snake-csharp\snake\snake\bin\Debug\snake.exe
+C:\Users\Maksutik\gitProjects\snake-csharp\snake\snake\bin\Debug\snake.pdb
+C:\Users\Maksutik\gitProjects\snake-csharp\snake\snake\obj\Debug\snake.exe
+C:\Users\Maksutik\gitProjects\snake-csharp\snake\snake\obj\Debug\snake.pdb
